@@ -1,0 +1,5 @@
+Flask
+Flask-MySQLdb
+Flask_SQLAlchemy
+PyMySQL
+cryptography
